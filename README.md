@@ -1,6 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnYyYmZqaWdsbHltbHhhdW8xMzY4MHdoZjg5NWUweGdrYTBjaWVkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" width="100"/>
 </div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :man_technologist: About Me :
 
 <!--
 **dr-divago/dr-divago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
