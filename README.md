@@ -1,7 +1,7 @@
 # Hi there, I'm Matteo 👋
 
 ## About Me
-🌟 I'm a Senior Software Enginer passionate about building software from first principles
+🌟 I'm a Senior Software Enginer passionate about building software from first principles  
 🌱 Currently learning about Functional Programming  
 🎯 2025 Goals: Learn Rust and more about FP
 
