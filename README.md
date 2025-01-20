@@ -36,6 +36,8 @@
 
 ---
 📫 How to reach me: [matteo.pelliccia@gmail.com]
+
+![Visitors](https://profile-counter.glitch.me/dr-divago/count.svg)
 <!--
 **dr-divago/dr-divago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
