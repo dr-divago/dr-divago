@@ -1,4 +1,6 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnYyYmZqaWdsbHltbHhhdW8xMzY4MHdoZjg5NWUweGdrYTBjaWVkaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/A06UFEx8jxEwU/giphy.gif" width="100"/>
+</div>
 
 <!--
 **dr-divago/dr-divago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
