@@ -9,6 +9,7 @@
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Scheme](https://img.shields.io/badge/-Scheme-A42E2B?style=flat&logo=gnu&logoColor=white)
@@ -17,6 +18,7 @@
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Akka](https://img.shields.io/badge/-Akka-FF0000?style=flat&logo=apachecommons&logoColor=white)
+![Vert.x](https://img.shields.io/badge/-Eclipse%20Vert.x-782A90?style=flat&logo=eclipsevertdotx&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
